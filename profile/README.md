@@ -1,4 +1,4 @@
-https://github.com/neowiseorg/app-ui/actions/workflows/CI/badge.svg
+https://github.com/neowiseorg/app-ui/actions/workflows/ci.yml/badge.svg
 
 
 <!--
