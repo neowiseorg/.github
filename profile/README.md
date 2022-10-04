@@ -1,4 +1,5 @@
-## Hi there 👋
+https://github.com/neowiseorg/app-ui/actions/workflows/CI/badge.svg
+
 
 <!--
 
